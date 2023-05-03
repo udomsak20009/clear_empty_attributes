@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
