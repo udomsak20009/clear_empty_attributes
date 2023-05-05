@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix xyxyxyxyn calculation in obb result (#8188)
