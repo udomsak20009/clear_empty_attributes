@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add Amazon Sagemaker Docs integrations page (#7293)
