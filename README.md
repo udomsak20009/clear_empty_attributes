@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add new YOLOv8 OBB model metrics (#7379)
