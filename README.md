@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
