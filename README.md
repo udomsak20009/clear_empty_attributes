@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+New test for labels and crops (#8861)
