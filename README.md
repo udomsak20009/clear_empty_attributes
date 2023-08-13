@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update neural-magic.md (#7347)
