@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
