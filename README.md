@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Fix docker.yaml double-quote version bug (#7452)
