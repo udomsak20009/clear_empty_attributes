@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
