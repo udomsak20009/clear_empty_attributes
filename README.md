@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update Docs Home and Neural Magic pages (#7243)
