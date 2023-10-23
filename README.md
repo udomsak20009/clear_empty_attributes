@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
