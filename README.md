@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
