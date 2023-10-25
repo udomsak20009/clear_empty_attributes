@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Expand Model method type hinting (#8279)
