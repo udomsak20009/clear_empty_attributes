@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update pyproject.toml and Docs (#7274)
