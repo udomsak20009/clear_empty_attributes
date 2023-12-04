@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Fix IS_PYTHON_3_12 bug (#9258)
