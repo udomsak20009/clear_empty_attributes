@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Docs partial mdformat improvements (#7378)
