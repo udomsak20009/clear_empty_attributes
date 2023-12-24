@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
