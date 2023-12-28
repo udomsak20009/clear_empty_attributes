@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
