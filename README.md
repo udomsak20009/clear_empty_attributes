@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Avoid creating -hub dir without processing images (#8334)
