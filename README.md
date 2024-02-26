@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update Colab notebook for YOLOv8.1 (#8660)
