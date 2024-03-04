@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
