@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add docs guide terminal images (#8819)
