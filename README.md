@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Add bgr hyperparameter (#9139)
