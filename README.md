@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+New HUB Cloud Training docs page (#8174)
