@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+OpenVino 2024.0.0 (#8726)
