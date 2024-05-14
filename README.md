@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add HUB-SDK docs (#7775)
