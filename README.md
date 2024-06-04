@@ -1,1 +1,1 @@
-added badges (#45)
+fix yolo classify model loading error (#9196)
