@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Improve Coral Edge TPU guide (#8160)
