@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+fix yolo classify model loading error (#9196)
