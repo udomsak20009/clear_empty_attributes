@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
