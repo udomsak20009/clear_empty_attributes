@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
