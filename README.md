@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
