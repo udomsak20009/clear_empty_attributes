@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
