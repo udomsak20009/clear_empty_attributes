@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
