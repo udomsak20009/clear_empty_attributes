@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update format.yml to pull_request_target (#7460)
