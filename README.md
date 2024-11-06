@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+OBB: Fix plot_images (#7592)
